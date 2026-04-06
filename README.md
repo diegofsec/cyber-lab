@@ -1,4 +1,4 @@
-# Cybersecurity Lab — Diego Fernandez
+# Cybersecurity Lab — diegofsec
 
 Personal cybersecurity learning lab. 
 Hands-on exercises and documentation built as part of my 
@@ -20,3 +20,32 @@ cybersecurity and SOC operations.
 | 5_File Permissions & User Management | Users, groups, sudo |
 | 6_Monitor System and Processes | ps, top, netstat |
 | Basic Linux Commands Cheat Sheet | Ubuntu quick reference |
+
+
+
+
+
+
+
+
+
+
+
+# 🔧 Tools
+
+Currently using:
+- Kali Linux · Ubuntu
+- Wireshark · Nmap · WPScan
+- VirusTotal · AbuseIPDB · Any.run
+
+---
+
+## 🔗 Connect
+
+- 🌐 Project: [roocyber.com](https://roocyber.com)
+- 💼 LinkedIn: [linkedin.com/in/diegof10](https://www.linkedin.com/in/diegof10/)
+
+---
+
+> All exercises are performed in controlled lab environments 
+> for educational purposes only.
