@@ -22,15 +22,6 @@ cybersecurity and SOC operations.
 | Basic Linux Commands Cheat Sheet | Ubuntu quick reference |
 
 
-
-
-
-
-
-
-
-
-
 # 🔧 Tools
 
 Currently using:
