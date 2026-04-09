@@ -5,11 +5,8 @@ Hands-on exercises and documentation built as part of my
 transition into cybersecurity and SOC Analyst preparation — 
 ---
 
-## 📁 Current Content
-
-### 🐧 Linux Fundamentals (Ubuntu)
-Practical exercises covering essential Linux skills for 
-cybersecurity and SOC operations.
+### Linux Fundamentals (Ubuntu)
+Practical exercises covering essential Linux skills for cybersecurity and SOC operations.
 
 | File | Topic |
 |------|-------|
@@ -22,19 +19,14 @@ cybersecurity and SOC operations.
 | Basic Linux Commands Cheat Sheet | Ubuntu quick reference |
 
 
-# 🔧 Tools
-
-Currently using:
+# Tools
 - Kali Linux · Ubuntu
 - Wireshark · Nmap · WPScan
 - VirusTotal · AbuseIPDB · Any.run
-
 ---
-
-## 🔗 Connect
-
-- 🌐 Project: [roocyber.com](https://roocyber.com)
-- 💼 LinkedIn: [linkedin.com/in/diegof10](https://www.linkedin.com/in/diegof10/)
+## Connect
+- Project: [roocyber.com](https://roocyber.com)
+- LinkedIn: [linkedin.com/in/diegof10](https://www.linkedin.com/in/diegof10/)
 
 ---
 
